@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.mypy_cache/
+.venv/
+data/
+output/
+*.pt
+*.log
+.DS_Store
+results/fig_geometry_showcase.pdf
+results/modality_ablation_rerun.csv
